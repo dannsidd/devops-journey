@@ -1,0 +1,7 @@
+pwd         # Print current directory
+ls          # List files
+cd          # Change directory
+mkdir test  # Make a new directory
+touch file.txt  # Create a file
+rm file.txt     # Remove a file
+clear       # Clear terminal
